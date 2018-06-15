@@ -1,0 +1,36 @@
+#box{
+	width:350px;
+	height:600px;
+	border:1px solid red;
+	border-top:2px solid blue;
+	
+}
+#item1{
+	width:350px;
+	height:35px;
+	border-bottom:1px solid yellow;
+	
+	
+}
+#item2{
+	height:80px;
+	border-bottom:1px solid yellow;
+	
+	
+}
+#item3{
+	height:80px;
+	border-bottom:1px solid yellow;
+	
+	
+}
+#item4{
+	height:200px;
+	border-bottom:1px solid red;
+	
+	
+}
+#item5{
+	height:127px;
+	
+}

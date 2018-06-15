@@ -1,0 +1,25 @@
+#box{
+	width:298px;
+	height:416px;
+	border:1px solid #cfcfcf;
+	border-top:2px solid #206f96;
+}
+#item{
+	height:29px;
+	border-bottom:1px solid #cfcfcf;
+}
+#item1{
+	height:56px;
+	border-bottom:1px solid #ececec;
+}
+#item2{
+	height:125px;
+	border-bottom:1px solid #ececec;
+}
+#item3{
+	height:75px;
+	border-bottom:1px solid #ececec;
+}
+#item4{
+	height:127px;
+}
